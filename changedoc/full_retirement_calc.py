@@ -10,7 +10,7 @@ LAST_66_YEAR = 1954
 
 FIRST_67_YEAR = 1960
 
-MONTH_NAMES = {0: 'january',
+MONTH_NAMES = {0: 'January',
                1: 'January',
                2: 'February',
                3: 'March',
